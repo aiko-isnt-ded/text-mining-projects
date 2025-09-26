@@ -1,0 +1,5 @@
+4Hugging_Face_tut/**/*.pt filter=lfs diff=lfs merge=lfs -text
+4Hugging_Face_tut/**/*.safetensors filter=lfs diff=lfs merge=lfs -text
+4Hugging_Face_tut/**/*.onnx filter=lfs diff=lfs merge=lfs -text
+4Hugging_Face_tut/**/*.bin filter=lfs diff=lfs merge=lfs -text
+4Hugging_Face_tut/onnx/**/*.onnx filter=lfs diff=lfs merge=lfs -text
