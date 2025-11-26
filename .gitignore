@@ -27,6 +27,7 @@ share/python-wheels/
 MANIFEST
 model/
 raw_data/
+gpt2-ft/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
