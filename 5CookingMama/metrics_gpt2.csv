@@ -1,0 +1,11 @@
+metric,value
+eval_train_loss,1.137171983718872
+eval_train_model_preparation_time,0.001
+eval_train_runtime,324.2552
+eval_train_samples_per_second,49.344
+eval_train_steps_per_second,24.672
+eval_test_loss,1.139114260673523
+eval_test_model_preparation_time,0.001
+eval_test_runtime,77.9668
+eval_test_samples_per_second,51.304
+eval_test_steps_per_second,25.652
