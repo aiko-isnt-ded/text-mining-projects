@@ -6,7 +6,7 @@ Repository to store projects related to our Text Mining Course at ITESO Universi
 
 - **2Skipgram&CBOW** uses CBOW and Skipgram algorithms to generate embeddings of a corpus about Anarchy on Wikipedia. It also visualizes both approaches via UMAP and t-SNE.
 
-- **3Sentiment_Analysis_2_Electric_Boogaloo** is an improvement upon our first sentiment analysis project. It compares different methods to extract features for text classification: 
+- **3Sentiment_Analysis_2_Electric_Boogaloo** is an improvement upon our first sentiment analysis project, aimed at identifying Anti-LGBT sentiment in tweets. It compares different methods to extract features for text classification: 
     - TF-IDF for a Logistic Regression
     - TF-IDF coupled with POS-NER tagging for a FNN
     - Embeddings and classification using BERT
